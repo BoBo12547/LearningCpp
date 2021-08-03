@@ -1,9 +1,10 @@
 # LearningCpp
 
-task1 -
+task 1 -
+An introduction for myself.
 
 
-task2 -
+task 2 -
 
 
 
